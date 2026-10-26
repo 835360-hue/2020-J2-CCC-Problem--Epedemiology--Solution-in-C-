@@ -1,4 +1,4 @@
-CCC J2 2020 - "Dog Epidemiology"
+CCC J2 2020 - "Epidemiology"
 --------------------------------
 
 People who study epidemiology use models to analyze the spread of disease. In this problem, we use a simple model.
